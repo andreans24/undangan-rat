@@ -6,6 +6,15 @@ body {
 
 }
 
+@font-face {
+    font-family: 'Ethnocentric';
+    src: url('fonts/ethnocentric/ethnocentric.woff2') format('woff2'),
+        url('fonts/ethnocentric/ethnocentric.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 .info h2,
 .story h2,
 .gallery h2,
