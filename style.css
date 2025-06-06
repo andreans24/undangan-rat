@@ -3,7 +3,6 @@ body {
     font-family: 'Work Sans', sans-serif;
     color: white;
     min-height: 3000px;
-
 }
 
 @font-face {
@@ -682,5 +681,12 @@ html {
 
     .nomor-doorprize {
         font-size: 18px;
+    }
+
+    .offcanvas {
+        height: auto !important; 
+        max-height: 60vh;
+        border-radius: 0 0 1rem 1rem;
+        top: 60px;
     }
 }
