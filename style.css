@@ -8,8 +8,8 @@ body {
 
 @font-face {
     font-family: 'Ethnocentric';
-    src: url('fonts/ethnocentric/ethnocentric.woff2') format('woff2'),
-        url('fonts/ethnocentric/ethnocentric.woff') format('woff');
+    src: url('fonts/Ethnocentric-Regular.woff') format('woff2'),
+        url('fonts/Ethnocentric-Regular.woff2') format('woff');
     font-weight: normal;
     font-style: normal;
 }
