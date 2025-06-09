@@ -467,20 +467,28 @@ body {
 
 footer {
     padding: 3rem;
-    background: linear-gradient(180deg, rgba(252, 194, 144, 0.5), rgba(42, 45, 119, 0.4) 100%)
+    /* background: linear-gradient(180deg, rgba(252, 194, 144, 0.5), rgba(42, 45, 119, 0.4) 100%) */
+}
+
+.footer-icons {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.footer-icons li {
+    display: inline-block;
+    margin: 0 10px;
 }
 
 .footer-icons a i {
-        font-size: 24px;
-        color: #2A2D77;
-        margin: 0 15px;
-        transition: transform 0.3s ease;
-        justify-content: center;
-        align-items: center;
-    }
+    font-size: 24px;
+    color: #2A2D77;
+    transition: transform 0.3s ease;
+}
 
-    .footer-icons a i:hover {
-        transform: scale(1.2);
+.footer-icons a i:hover {
+    transform: scale(1.2);
 }
 
 .audio-icon-wrapper {
