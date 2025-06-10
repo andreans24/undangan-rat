@@ -690,7 +690,8 @@ html {
         height: 100px;
         left: 50%;
         transform: translateX(-50%);
-    }
+        
+}
 
     .timeline-panel {
         width: 90%;
@@ -713,7 +714,7 @@ html {
     }
 
     .nama {
-        top: 95%;
+        top: 73%;
         font-size: 1.5rem;
         padding: 0.2rem 0.6rem;
     }
